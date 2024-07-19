@@ -1,10 +1,5 @@
 package org.example.reservation.model;
 
-//import jakarta.persistence.Column;
-//import jakarta.persistence.Entity;
-//import jakarta.persistence.Id;
-//import jakarta.persistence.Table;
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
